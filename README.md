@@ -23,5 +23,11 @@ C.MISI 1
 
 3.Apa perbedaan Issue dengan commit?
   a.Issue adalah catatan, rencana, atau wadah tugas yang berisi daftar pekerjaan yang harus dilakukan dalam sebuah proyek.
-  b.Commit adalah rekaman atau catatan perubahan kode nyata yang sudah diketik dan disimpan ke dalam repository.
+  b.Commit adalah rekaman atau catatan perubahan kode nyata yang sudah diketik dan disimpan dalam repository.
+
+## Anggota Tim
+1. Aulya Nasya.R
+2. Rifki Fauzi
+3. Sulthan Hifdzu
+4. Hendra Permana
 

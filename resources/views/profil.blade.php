@@ -216,6 +216,14 @@
             </p>
         </div>
 
+        <div class="profile-card">
+            <h3>Wali Kelas</h3>
+
+            <p>
+                Ibu Widya, S.Kom.
+            </p>
+        </div>
+
     </div>
 
     <div class="wave"></div>
